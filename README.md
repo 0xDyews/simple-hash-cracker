@@ -18,7 +18,7 @@ It will loop through every word in the wordlist, hash it using the selected algo
 
 ## 🛠️ Requirements
 
-- Python 3.X.
+- Python 3.X.X
 
 ---
 
