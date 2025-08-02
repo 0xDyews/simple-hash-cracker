@@ -3,7 +3,7 @@
 This is a basic Python script that attempts to crack hashed strings using a wordlist.  
 It supports `MD5`, `SHA1`, and `SHA256` hashes.
 
---
+---
 
 ## 💡 What it does
 
